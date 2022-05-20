@@ -7,4 +7,7 @@ This files contains data on the ratification of the 1966 *International Conventi
 - **state party** - It is dichotomous variable: 1 equals the member's ratification of the treaty.
 - **year ratification or accession** - This the year the member state ratified the the convention.
 - **signatory** - A dichotomous variable that capture whether a state that has not ratified the treaty has signed it.
-- **no action** - A dichotomous variable: 1 equals a state which has not signed or ratified the convention. 
+- **no action** - A dichotomous variable: 1 equals a state which has not signed or ratified the convention.
+- **status** - The variable captures describes UN member state's status regarding the convention. It offers three options: state party, signatory state or no action.
+- **notes** - Text explaining a particular observation.
+ 
