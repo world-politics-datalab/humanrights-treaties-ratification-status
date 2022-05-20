@@ -1,4 +1,4 @@
-# humanrights-treaty-racial_discrimination
+# Status of Ratification - UN Anti-Racial Discrimination Convention
 This files contains data on the ratification of the 1966 *International Convention on the Elimination of All Forms of Racial Discrimination*. The data was extrapolated from the United Nations Treaty Collection's [page](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-2&chapter=4&clang=_en). **It is important to note that this files does not include all state parties to the convention. It only measures UN member states' willingness to ratify this legal instrument**. 
 
 ## Variables:
