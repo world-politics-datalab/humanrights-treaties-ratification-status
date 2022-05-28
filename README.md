@@ -1,6 +1,6 @@
 # Core United Nations Human Rights Instruments: Their Ratification Status
 
-This repository contains data on the ratification of the core United Nations human rights instruments. the 1966 *International Convention on the Elimination of All Forms of Racial Discrimination*. The data was extrapolated from the United Nations Treaty Collection's [webpage]([https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-2&chapter=4&clang=_en](https://treaties.un.org/pages/Treaties.aspx?id=4&subid=A&clang=_en). 
+This repository contains data on the ratification of the core United Nations human rights instruments. The data was extrapolated from the United Nations Treaty Collection's [webpage]([https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-2&chapter=4&clang=_en](https://treaties.un.org/pages/Treaties.aspx?id=4&subid=A&clang=_en). 
 
 **It is important to note that this files does not include all state parties to the convention. It only measures UN member states' willingness to ratify these legal instruments**. 
 
