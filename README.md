@@ -2,7 +2,7 @@
 
 This repository contains data on the ratification of the core United Nations human rights instruments. The data was extrapolated from the United Nations Treaty Collection's [webpage](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=IV-2&chapter=4&clang=_en). 
 
-**It is important to note that this files does not include all state parties to the convention. It only measures UN member states' willingness to ratify these legal instruments**. 
+**NOTE**: *These files does not include all state parties to the convention. They only measure UN member states' willingness to ratify these legal instruments*. 
 
 ## Legal Instruments:
 
