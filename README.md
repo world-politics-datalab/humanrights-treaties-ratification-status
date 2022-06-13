@@ -14,7 +14,7 @@ This repository contains data on the ratification of the core United Nations hum
 - **CRC**: *Convention on the Rights of the Child* (1989)
 - **ICMW**: *International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families* (1990)
 - **CPED**: *International Convention for the Protection of All Persons from Enforced Disappearance* (2006)
-- **CRPD**: *Convention on the Rights of Persons with Disabilities (2006)
+- **CRPD**: *Convention on the Rights of Persons with Disabilities* (2006)
 - **ICESCR-OP**: *Optional Protocol to the Covenant on Economic, Social and Cultural Rights* (2008)
 - **ICCPR-OP1**: *Optional Protocol to the International Covenant on Civil and Political Rights* (1966)
 - **ICCPR-OP2**: *Second Optional Protocol to the International Covenant on Civil and Political Rights, Aiming at the Abolition of the Death Penalty* (1989)
